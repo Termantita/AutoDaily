@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0-beta.21",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	},
+	"version": "v1.0.0",
+	"id": "terma.autodaily",
+	"name": "AutoDaily",
+	"developer": "Terma",
+	"description": "A simple mod for people that forgets to claim the daily chest rewards."
+}
