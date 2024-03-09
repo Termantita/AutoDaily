@@ -1,3 +1,3 @@
 # AutoDaily
 
-This is where she makes a mod.
+Geode simple mod for people that forgets to claim the daily chest rewards.
